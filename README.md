@@ -1,0 +1,81 @@
+# Hi, I'm Srija Maddela 👋
+
+### Digital Marketing & SEO Analyst | Data-Driven Marketing Fresher | Hyderabad, India
+
+> *"I don't just run campaigns — I measure them, optimise them, and prove their ROI with data."*
+
+---
+
+## 🎯 What I Do
+
+I'm an engineering graduate with a strong data analytics background, channelling my skills into **digital marketing and analyst**. I believe the best marketers are the ones who understand numbers — and I bring that analytical edge to every project.
+
+- 📊 **Marketing Analytics** — Translating raw data into actionable campaign insights
+- 🔍 **SEO Research** — Keyword gap analysis, on-page audits, competitor benchmarking
+- 📈 **Performance Reporting** — Power BI dashboards, Excel pivot reports, KPI tracking
+- 🐍 **Marketing Automation** — Python scripting for data pipelines and report automation
+
+---
+
+## 🗂️ Featured Projects
+
+### 📺 Netflix Content Trend Analysis — Audience & Market Research
+> *The same skills used to analyse streaming content are used to analyse marketing campaign performance.*
+
+- Analysed **8,000+ content records** to uncover genre performance, regional trends, and release patterns
+- Built visualisations (Matplotlib, Seaborn) revealing top-performing content categories by market
+- Structured findings into executive-ready reports — directly applicable to marketing dashboards
+- **Marketing application:** Audience segmentation, content gap analysis, trend forecasting
+
+🔗 [View Project](#) | **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter
+
+---
+
+### 🗄️ SQL Data Warehouse & ETL Pipeline
+> *Clean, structured data is the foundation of every good marketing analytics setup.*
+
+- Designed a **Bronze → Silver → Gold** layered data architecture
+- Built automated ETL pipelines handling multi-source data ingestion and transformation
+- **Marketing application:** Marketing attribution data models, campaign data warehousing
+
+🔗 [View on GitHub](https://github.com/maddelasrija-bot/sql-data-warehouse-project) | **Tools:** SQL, Python, ETL pipelines
+
+---
+
+### 🔍 Mock SEO Audit — Local Hyderabad Business *(Portfolio Project)*
+> *Applied SEO research using free tools to a real local business scenario.*
+
+- Keyword research using **Google Keyword Planner + Ubersuggest**
+- Identified **15+ high-opportunity, low-competition keywords**
+- On-page SEO recommendations + competitor backlink & content gap analysis
+
+---
+
+## 🛠️ Marketing & Analytics Toolkit
+
+| Category | Tools & Skills |
+|---|---|
+| **SEO & Research** | Keyword Research, On-Page SEO, Ubersuggest, Google Keyword Planner |
+| **Analytics** | Google Analytics 4 (learning), Campaign Reporting, KPI Tracking |
+| **Data Tools** | Python, SQL, Power BI, Excel, Jupyter Notebooks |
+| **Marketing** | Content Strategy, Email Marketing fundamentals, Meta Ads awareness |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Certified Data Analyst | IABAC | ✅ Completed |
+| Microsoft Copilot in Power BI | Microsoft | ✅ Completed |
+| Google Analytics 4 (GA4) | Google Skillshop | 🔄 In Progress |
+| SEO Essentials | SEMrush Academy | 🔄 In Progress |
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srija_Maddela-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/maddela-srija-a95895275)
+[![Email](https://img.shields.io/badge/Email-maddelasrija023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maddelasrija023@gmail.com)
+
+*📍 Hyderabad, Telangana | Open to Digital Marketing, SEO & Marketing Analytics roles*
