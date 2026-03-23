@@ -68,7 +68,7 @@ I'm an engineering graduate with a strong data analytics background, channelling
 |---|---|---|
 | Certified Data Analyst | IABAC | ✅ Completed |
 | Microsoft Copilot in Power BI | Microsoft | ✅ Completed |
-| Google Analytics 4 (GA4) | Google Skillshop | 🔄 In Progress |
+| Google Analytics 4 (GA4) | Google Skillshop | ✅ Completed |
 | SEO Essentials | SEMrush Academy | 🔄 In Progress |
 
 ---
