@@ -78,4 +78,4 @@ I'm an engineering graduate with a strong data analytics background, channelling
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srija_Maddela-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/maddela-srija-a95895275)
 [![Email](https://img.shields.io/badge/Email-maddelasrija023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maddelasrija023@gmail.com)
 
-*📍 Hyderabad, Telangana | Open to Digital Marketing, SEO & Marketing Analytics roles*
+*📍 India | Open to Digital Marketing, SEO & Marketing Analytics roles*
